@@ -1,9 +1,11 @@
 # SCUT_FORU_DB_Release
 
 SCUT-FORU: Flickr OCR Universal Database
+
 Flickr OCR Universal Database (abbreviated as FORU and pronounced like for you) is collected from Flickr website https://www.flickr.com/ and now released by Human Computer Intelligent Interaction Lab of South China University of Technology.
 
 1 Database Organization
+
 FORU contains two parts, which are Chinese2k and English2k dataset, respectively.
 
 (a) English2k dataset
