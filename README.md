@@ -10,17 +10,17 @@ English2k dataset is consists of two subsets, which one subset is suitable for c
 
                                  Table 1 Character Level Bounding boxes
 	                 Training Bounding box Instances |	Testing Bounding box Instances |	Total Bounding box Instances
-     English2k                14888	               |           6506	                 |            21394
+     English2k                14888	                 |           6506	               |            21394
 
                                     Table 2 Word Level Bounding boxes
 	                 Training Bounding box Instances |	Testing Bounding box Instances | Total Bounding box Instances
-     English2k	              3840	               |            1581	               |              5421
+     English2k	              3840	                 |            1581	               |              5421
 
-(b)Chinese2k dataset
+(b) Chinese2k dataset
 The Chinese2k dataset has 1861 training images and 355 testing images. The detailed annotation is presented in Table 3.
-                                 Table 3 Annotations of Chinese2k dataset
-	                 Training Bounding box Instances | Testing Bounding box Instances	 | Total Bounding box Instances
-     Chinese2k	              23768	               |             4626	               |             28394
+					Table 3 Annotations of Chinese2k dataset
+	                 Training Bounding box Instances | Testing Bounding box Instances      | Total Bounding box Instances
+     Chinese2k	              23768	                 |             4626	               |             28394
 
 2 Format of ground truth files
 Each image in the database corresponds to a ground truth file, in which each line records the location and label of one character/word. The format of the ground truth files is illustrated as {x, y, w, h, label}. {x, y} denotes the top-left coordinate of the annotated bounding box, and {w, h} denotes the size of the annotated bounding box.
