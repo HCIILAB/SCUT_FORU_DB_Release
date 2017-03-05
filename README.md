@@ -12,15 +12,17 @@ FORU contains two parts, which are Chinese2k and English2k dataset, respectively
 
 English2k dataset is consists of two subsets, which one subset is suitable for character detection and the other one is suitable for word detection. The character detection subset has 813 training images and 349 testing images. The detailed annotations are presented in Table 1. On the other hand, the word detection subset has 1200 training images and 515 testing images. The detailed annotations are presented in Table 2.
 
-                                 Table 1 Character Level Bounding boxes
-	                 Training Bounding box Instances |	Testing Bounding box Instances |	Total Bounding box Instances
-     English2k                14888	                 |           6506	               |            21394
+Table 1 Character Level Bounding boxes
 
-                                    Table 2 Word Level Bounding boxes
-	                 Training Bounding box Instances |	Testing Bounding box Instances | Total Bounding box Instances
-     English2k	              3840	                 |            1581	               |              5421
-			            
+| name | Training Bounding box Instances | Testing Bounding box Instances | Total Bounding box Instances |
+| ---------- | ---------- | ---------- | ---------- |
+| English2k |  14888 | 6506 | 21394 |
 
+Table 2 Word Level Bounding boxes
+
+| name | Training Bounding box Instances | Testing Bounding box Instances | Total Bounding box Instances |
+| ---------- | ---------- | ---------- | ---------- |
+| English2k |  3840 | 1581 | 5421 |
 
 ###(b) Chinese2k dataset
 
@@ -44,5 +46,14 @@ The samples of SCUT-FORU dataset have a great diversity. The scenes include stre
 ##4 Contact
 
 Please consider to cite our paper 
-Shuye Zhang, Mude Lin, Tianshui Chen, Lianwen Jin*, Liang Lin, “CHARACTER PROPOSAL NETWORK FOR ROBUST TEXT DETECTION” when you use our database.
-Please feel free to modify the dataset when it is needed. For any questions about this database please contact shuye.cheung@gmail.com or lianwen.jin@gmail.com.
+```
+@inproceedings{zhang2016character,
+  title={Character proposal network for robust text extraction},
+  author={Zhang, Shuye and Lin, Mude and Chen, Tianshui and Jin, Lianwen and Lin, Liang},
+  booktitle={Acoustics, Speech and Signal Processing (ICASSP), 2016 IEEE International Conference on},
+  pages={2633--2637},
+  year={2016},
+  organization={IEEE}
+}
+```
+when you use our database. Please feel free to modify the dataset when it is needed. For any questions about this database please contact shuye.cheung@gmail.com or lianwen.jin@gmail.com.
