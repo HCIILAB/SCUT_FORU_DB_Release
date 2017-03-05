@@ -20,13 +20,18 @@ English2k dataset is consists of two subsets, which one subset is suitable for c
 	                 Training Bounding box Instances |	Testing Bounding box Instances | Total Bounding box Instances
      English2k	              3840	                 |            1581	               |              5421
 			            
-			            Table 3 Annotations of Chinese2k dataset
-	                 Training Bounding box Instances | Testing Bounding box Instances      | Total Bounding box Instances
-     Chinese2k	              23768	                 |             4626	               |             28394
+
 
 ###(b) Chinese2k dataset
 
 The Chinese2k dataset has 1861 training images and 355 testing images. The detailed annotation is presented in Table 3.
+
+ Table 3 Annotations of Chinese2k dataset
+
+| name | Training Bounding box Instances | Testing Bounding box Instances | Total Bounding box Instances |
+| ---------- | ---------- | ---------- | ---------- |
+| Chinese2k |  23768 | 4626 | 28394 |
+
 
 ##2 Format of ground truth files
 
