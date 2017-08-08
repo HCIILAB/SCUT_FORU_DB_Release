@@ -42,7 +42,13 @@ Each image in the database corresponds to a ground truth file, in which each lin
 
 ## 3 Database Usage
 
-The samples of SCUT-FORU dataset have a great diversity. The scenes include streets, buildings, shops, offices, restaurants, railway stations, subway, etc. The texts include traffic signs, road signs, book covers, outdoor advertising, signs, and so on. Various light conditions are also considered, such as sunny and cloudy, day and night, and so on. It is worth noting that most text directions are horizontal. This database should be used for scene text detection and recognition. Specifically, it is available in the field of (A) cropped character recognition; (B) cropped word recognition and (C) full image word detection and recognition.
+The samples of SCUT-FORU dataset have a great diversity. The scenes include streets, buildings, shops, offices, restaurants, railway stations, subway, etc. The texts include traffic signs, road signs, book covers, outdoor advertising, signs, and so on. Various light conditions are also considered, such as sunny and cloudy, day and night, and so on. It is worth noting that most text directions are horizontal. This database should be used for scene text detection and recognition. Specifically, it is available in the field of 
+
+(A) cropped character recognition; 
+
+(B) cropped word recognition and 
+
+(C) full image word detection and recognition.
 
 ## 4 Contact
 
