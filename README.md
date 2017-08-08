@@ -46,7 +46,7 @@ The samples of SCUT-FORU dataset have a great diversity. The scenes include stre
 
 (A) cropped character recognition; 
 
-(B) cropped word recognition and 
+(B) cropped word recognition;
 
 (C) full image word detection and recognition.
 
