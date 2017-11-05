@@ -1,6 +1,6 @@
 # SCUT_FORU_DB_Release
 
-SCUT_FORU_DB_Release, is short for SCUT Flickr OCR Universal Database (abbreviated as FORU and pronounced like for you), is collected from Flickr website https://www.flickr.com/ and now released by Human Computer Intelligent Interaction Lab of South China University of Technology. The database can be downloaded by https://www.dropbox.com/s/06wfn5ugt5v3djs/SCUT_FORU_DB_Release.rar?dl=0. or https://pan.baidu.com/s/1kVRIpd9 (Feel free to inform us when these links are unavailable).
+SCUT_FORU_DB_Release, is short for SCUT Flickr OCR Universal Database (abbreviated as FORU and pronounced like for you), is collected from Flickr website https://www.flickr.com/ and now released by Human Computer Intelligent Interaction Lab of South China University of Technology. The database can be downloaded by https://www.dropbox.com/s/062e4kwkx9073rd/SCUT_FORU_DB_Release.rar?dl=0. or https://pan.baidu.com/s/1kVRIpd9 (Feel free to inform us when these links are unavailable).
 
 
 ## 1 Database Organization
