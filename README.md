@@ -2,7 +2,11 @@
 
 SCUT-FORU: Flickr OCR Universal Database
 
-Flickr OCR Universal Database (abbreviated as FORU and pronounced like for you) is collected from Flickr website https://www.flickr.com/ and now released by Human Computer Intelligent Interaction Lab of South China University of Technology. The database can be downloaded by https://www.dropbox.com/s/06wfn5ugt5v3djs/SCUT_FORU_DB_Release.rar?dl=0.
+Flickr OCR Universal Database (abbreviated as FORU and pronounced like for you) is collected from Flickr website https://www.flickr.com/ and now released by Human Computer Intelligent Interaction Lab of South China University of Technology. The database can be downloaded from https://pan.baidu.com/s/1rQfETvBhzrJOhxJWVAABTA 
+
+Best,
+Lianwen Jin
+.
 
 1 Database Organization
 
@@ -39,5 +43,5 @@ The samples of SCUT-FORU dataset have a great diversity. The scenes include stre
 4 Contact
 
 Please consider to cite our paper 
-Shuye Zhang, Mude Lin, Tianshui Chen, Lianwen Jin*, Liang Lin, “CHARACTER PROPOSAL NETWORK FOR ROBUST TEXT DETECTION” when you use our database.
+"Shuye Zhang, Mude Lin, Tianshui Chen, Lianwen Jin*, Liang Lin, CHARACTER PROPOSAL NETWORK FOR ROBUST TEXT DETECTION, ICASSP 2017" when you use our database.
 Please feel free to modify the dataset when it is needed. For any questions about this database please contact shuye.cheung@gmail.com or lianwen.jin@gmail.com.
